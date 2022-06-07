@@ -1,0 +1,25 @@
+## neste modulo aprendemos alguns códigos para navegar pelo CDM 
+
+### como por exemplo :
+
+- dir
+- cd
+- cd..
+- mkdir
+- cls
+- del
+- rmdir
+
+
+
+O *DIR* é responsável no Windows por listar todas as pastas que tem em determinado lugar.
+
+O *CD* é permite que você navegue entre pastas, diferente do CD.. que faz com que você volte uma aba atrás.
+
+O *MKDIR* faz com que você cri novas pastas .
+
+O *CLS* faz com que você limpe o terminal ou pode usar o atalho *CTRL + L*.
+
+O *DEL* faz com que exclua um único arquivo.
+
+O *RMDIR* faz com que exclua repositórios inteiros.
